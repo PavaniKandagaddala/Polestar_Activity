@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"css-1b3loew\"]//descendant::label[@class=\"css-9pq9cn\" and @tabindex=\"-1\"]"
+}

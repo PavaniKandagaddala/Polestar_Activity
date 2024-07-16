@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[@data-index=\"0\" and @class=\"css-jxfe2\"]"
+}
